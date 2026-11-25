@@ -1,4 +1,6 @@
-# Simple workflow for deploying static content to GitHub Pages
+# Simple workflow for deploying static content to GitHub Pages.
+# Before running, enable Pages in repository Settings > Pages and select
+# "GitHub Actions" as the build and deployment source.
 name: Deploy static content to Pages
 
 on:
